@@ -17,6 +17,7 @@
 }{}
 {{[(])]}}
 [[{())}]
+
 Файл с кодом: *["main.py"](https://github.com/graffsmile/Interview/blob/main/main.py)*
 
 ##  2. Рефакторинг кода
